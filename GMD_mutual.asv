@@ -1,0 +1,14 @@
+function [D_m] = GMD_mutual(inputArg1,inputArg2)
+%UNTITLED8 Summary of this function goes here
+%   Detailed explanation goes here
+
+d_ab = 
+
+D_AB = (  )^(1/4) ;
+D_BC = (  )^(1/4) ;
+D_CA = (  )^(1/4) ;
+
+D_m = (D_AB * D_BC * D_CA)^(1/3) ;
+
+end
+
